@@ -4,7 +4,7 @@
 <h1>Ihsan Baturalp Aydogdu</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+PJATK;Aspiring+Data+%26+AI+Engineer;Full-Stack+%26+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+PJATK;Aspiring+Data+%26+AI+Engineer;Python+%26+Full-Stack+Systems+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 
 Entrepreneurial and fast-learning **Computer Science** undergraduate at **Polsko-Japońska Akademia Technik Komputerowych (PJATK)** in Warsaw, transitioning hands-on software development, system infrastructure, and project management experience toward **Data & AI Engineering**.
 
-- 🔭 **Current Focus:** Data pipelines, AI-integrated web applications, scalable backend systems, and algorithmic problem-solving.
+- 🔭 **Current Focus:** Python-driven data pipelines, AI-integrated web applications, scalable backend systems, and algorithmic problem-solving.
 - 🛠️ **Background:** Experienced in full-cycle project leadership, cloud/VDS hosting operations, real-time Node.js architectures, and database management.
 - 🌍 **Languages:** Turkish (Native) • English (B2+ Professional Working Proficiency)
 
@@ -51,7 +51,7 @@ Entrepreneurial and fast-learning **Computer Science** undergraduate at **Polsko
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,lua,html,css,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,lua,html,css,cpp,c&theme=dark" />
 
 <br/><br/>
 
