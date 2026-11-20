@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Dark Theme & Executive Header -->
 <h1>Ihsan Baturalp Aydogdu</h1>
 
 <a href="https://git.io/typing-svg">
@@ -9,7 +8,6 @@
 
 <br/>
 
-<!-- Badges & Links -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Warsaw%2C%20Poland-0d1117?style=for-the-badge&logo=googlemaps&logoColor=f85149" />
   <a href="https://github.com/batusayd">
@@ -51,13 +49,13 @@ Entrepreneurial and fast-learning **Computer Science** undergraduate at **Polsko
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,js,lua,html,css,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,lua,html,css&theme=dark" />
 
 <br/><br/>
 
 **Backend, Databases & Infrastructure**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,discordjs,mongodb,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs,mysql,mongodb,linux,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -66,14 +64,14 @@ Entrepreneurial and fast-learning **Computer Science** undergraduate at **Polsko
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batusayd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=f85149"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batusayd&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batusayd&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batusayd&theme=tokyonight&background=0d1117&border_color=30363d&ring=f85149&fire=f85149&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=batusayd&theme=tokyonight&background=0d1117&border=30363d&ring=f85149&fire=f85149&currStreakLabel=58a6ff" />
 </div>
 
 ---
